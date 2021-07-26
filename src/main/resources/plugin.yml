@@ -1,0 +1,5 @@
+name: MineReward
+version: ${project.version}
+main: dev.lightdream.minereward.Main
+authors: [ L1ghtDream ]
+website: https://lightdream.tk
